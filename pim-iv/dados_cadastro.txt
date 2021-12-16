@@ -1,0 +1,70 @@
+Nome: Barba Torvalds
+CPF: 011458523
+Data de nascimento:  01/07/2013
+e-Mail: mail@domain
+Telefone: 032984567485
+Rua: Rua A
+Numero: 01
+Bairro: Bairro A
+Cidade: Cidade A
+UF: UF A
+CEP: 360487523
+Data do diagnostico:  01/07/2021
+Apresenta comorbidades - Não pertence ao grupo de risco
+ 
+Nome: Laika Stellmann
+CPF: 012428523
+Data de nascimento:  01/07/2011
+e-Mail: mail@domain
+Telefone: 032945741256
+Rua: Rua B
+Numero: 777
+Bairro: Bairro B
+Cidade: Cidade B
+UF: UF B
+CEP: 36487523
+Data do diagnostico:  01/11/2021
+Não apresenta comorbidades - Não pertence ao grupo de risco
+
+Nome: Berruga Turing
+CPF: 013584523
+Data de nascimento:  01/01/2009
+e-Mail: mail@domain
+Telefone: 03289652365
+Rua: Rua C
+Numero: 999
+Bairro: Bairro C
+Cidade: Cidade C
+UF: UF C
+CEP: 3604512385
+Data do diagnostico:  24/11/2021
+Apresenta comorbidades - Não pertence ao grupo de risco
+
+Nome: Nikola Tesla
+CPF: 032458842
+Data de nascimento:  09/12/1835
+e-Mail: mail@domain
+Telefone: 032584523
+Rua: Rua D
+Numero: 123
+Bairro: Bairro D
+Cidade: Cidade D
+UF: UF D
+CEP: 38962356
+Data do diagnostico:  01/12/2021
+Não apresenta comorbidades - Pertence ao grupo de risco
+
+Nome: Zach Marks
+CPF: 04585228926
+Data de nascimento:  09/01/1876
+e-Mail: mail@domain
+Telefone: 0324578523
+Rua: Rua E
+Numero: 987
+Bairro: Bairro D
+Cidade: Cidade D
+UF: UF D
+CEP: 36457852
+Data do diagnostico:  01/12/2021
+Apresenta comorbidades - Pertence ao grupo de risco
+ 
